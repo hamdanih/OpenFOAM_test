@@ -1,2 +1,2 @@
 # from my home
-coco la mif
+first push OpenFoam forlder
